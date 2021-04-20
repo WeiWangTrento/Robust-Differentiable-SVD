@@ -1,5 +1,16 @@
 # Robust Differentiable SVD
 
+If you find this code is helpful, please consider to cite the following paper.
+
+```
+@article{wang2021robust,
+  title={Robust Differentiable SVD.},
+  author={Wang, Wei and Dang, Zheng and Hu, Yinlin and Fua, Pascal and Salzmann, Mathieu},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021}
+}
+```
+
 ## Requirements
 
 The code might not be compatible with lower version of the specified packages.
